@@ -2,6 +2,7 @@
 Biomedical engineering - Big Data analytics platforms
 
 ## Setting up a data science environment
+## hejka bigdejtowe swiry
 
 Anaconda [Conda cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
 
@@ -75,3 +76,4 @@ LAB: ML with Large Datasets
 LAB: Real-time data processing
 
 Stack: Redis, Apache Storm, Flask, d3js, TensorFlow
+
